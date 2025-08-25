@@ -20,4 +20,5 @@ Goal
 To showcase hands-on experience with AWS services, serverless computing, Infrastructure as Code (IaC), and CI/CD automation while building a real-world cloud project.
 
 Resources
+
 cloudresumechallenge.dev
